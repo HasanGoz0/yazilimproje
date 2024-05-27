@@ -78,18 +78,32 @@
             // label1
             // 
             this.label1.AutoSize = true;
+<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(102, 81);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(0, 16);
+=======
+            this.label1.Location = new System.Drawing.Point(76, 66);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 13);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.label1.TabIndex = 0;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+<<<<<<< HEAD
             this.label2.Location = new System.Drawing.Point(329, 49);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(126, 16);
+=======
+            this.label2.Location = new System.Drawing.Point(247, 40);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(102, 13);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.label2.TabIndex = 1;
             this.label2.Text = "Verilen  Borç Tarihi :";
             // 
@@ -99,9 +113,16 @@
             this.dateTimePicker1.CalendarTitleBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.dateTimePicker1.CalendarTitleForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.dateTimePicker1.CalendarTrailingForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+<<<<<<< HEAD
             this.dateTimePicker1.Location = new System.Drawing.Point(492, 48);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 22);
+=======
+            this.dateTimePicker1.Location = new System.Drawing.Point(369, 39);
+            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(151, 20);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.dateTimePicker1.TabIndex = 2;
             this.dateTimePicker1.ValueChanged += new System.EventHandler(this.dateTimePicker1_ValueChanged);
             // 
@@ -109,9 +130,16 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+<<<<<<< HEAD
             this.label3.Location = new System.Drawing.Point(347, 102);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(110, 16);
+=======
+            this.label3.Location = new System.Drawing.Point(260, 83);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(90, 13);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.label3.TabIndex = 3;
             this.label3.Text = "Ödenecek Tarih :";
             // 
@@ -121,9 +149,16 @@
             this.dateTimePicker2.CalendarTitleBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.dateTimePicker2.CalendarTitleForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.dateTimePicker2.CalendarTrailingForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+<<<<<<< HEAD
             this.dateTimePicker2.Location = new System.Drawing.Point(492, 100);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(200, 22);
+=======
+            this.dateTimePicker2.Location = new System.Drawing.Point(369, 81);
+            this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dateTimePicker2.Name = "dateTimePicker2";
+            this.dateTimePicker2.Size = new System.Drawing.Size(151, 20);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.dateTimePicker2.TabIndex = 6;
             this.dateTimePicker2.ValueChanged += new System.EventHandler(this.dateTimePicker2_ValueChanged);
             // 
@@ -157,12 +192,21 @@
             this.dataGridView1.AllowUserToDeleteRows = false;
             this.dataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+<<<<<<< HEAD
             this.dataGridView1.Location = new System.Drawing.Point(21, 227);
+=======
+            this.dataGridView1.Location = new System.Drawing.Point(16, 184);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
+<<<<<<< HEAD
             this.dataGridView1.Size = new System.Drawing.Size(744, 342);
+=======
+            this.dataGridView1.Size = new System.Drawing.Size(558, 278);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.dataGridView1.TabIndex = 8;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick_1);
             // 
@@ -173,9 +217,16 @@
             // adsoyad
             // 
             this.adsoyad.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+<<<<<<< HEAD
             this.adsoyad.Location = new System.Drawing.Point(105, 39);
             this.adsoyad.Name = "adsoyad";
             this.adsoyad.Size = new System.Drawing.Size(101, 22);
+=======
+            this.adsoyad.Location = new System.Drawing.Point(79, 32);
+            this.adsoyad.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.adsoyad.Name = "adsoyad";
+            this.adsoyad.Size = new System.Drawing.Size(77, 20);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.adsoyad.TabIndex = 9;
             this.adsoyad.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
@@ -183,27 +234,48 @@
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+<<<<<<< HEAD
             this.label6.Location = new System.Drawing.Point(18, 39);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(71, 16);
+=======
+            this.label6.Location = new System.Drawing.Point(14, 32);
+            this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(57, 13);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.label6.TabIndex = 12;
             this.label6.Text = "Ad soyad :";
             // 
             // Toplamborç
             // 
             this.Toplamborç.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+<<<<<<< HEAD
             this.Toplamborç.Location = new System.Drawing.Point(117, 171);
             this.Toplamborç.Name = "Toplamborç";
             this.Toplamborç.Size = new System.Drawing.Size(89, 22);
+=======
+            this.Toplamborç.Location = new System.Drawing.Point(88, 139);
+            this.Toplamborç.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Toplamborç.Name = "Toplamborç";
+            this.Toplamborç.Size = new System.Drawing.Size(68, 20);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.Toplamborç.TabIndex = 15;
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+<<<<<<< HEAD
             this.label7.Location = new System.Drawing.Point(18, 177);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(84, 16);
+=======
+            this.label7.Location = new System.Drawing.Point(14, 144);
+            this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(66, 13);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.label7.TabIndex = 16;
             this.label7.Text = "Toplamborç:";
             // 
@@ -211,27 +283,48 @@
             // 
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+<<<<<<< HEAD
             this.label5.Location = new System.Drawing.Point(18, 106);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(77, 16);
+=======
+            this.label5.Location = new System.Drawing.Point(14, 86);
+            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(64, 13);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.label5.TabIndex = 11;
             this.label5.Text = "Telefon no :";
             // 
             // Telefon
             // 
             this.Telefon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+<<<<<<< HEAD
             this.Telefon.Location = new System.Drawing.Point(105, 103);
             this.Telefon.Name = "Telefon";
             this.Telefon.Size = new System.Drawing.Size(157, 22);
+=======
+            this.Telefon.Location = new System.Drawing.Point(79, 84);
+            this.Telefon.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Telefon.Name = "Telefon";
+            this.Telefon.Size = new System.Drawing.Size(119, 20);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.Telefon.TabIndex = 10;
             this.Telefon.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // button2
             // 
             this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+<<<<<<< HEAD
             this.button2.Location = new System.Drawing.Point(456, 145);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(257, 39);
+=======
+            this.button2.Location = new System.Drawing.Point(342, 118);
+            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(193, 32);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.button2.TabIndex = 17;
             this.button2.Text = "Filtrele";
             this.button2.UseVisualStyleBackColor = false;
@@ -239,11 +332,19 @@
             // 
             // Form7
             // 
+<<<<<<< HEAD
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1065, 602);
+=======
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(799, 489);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.Toplamborç);
@@ -258,6 +359,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.DoubleBuffered = true;
+<<<<<<< HEAD
+=======
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 2b5a9cdff190322813f1686ea451d0f7a06e5337
             this.Name = "Form7";
             this.Text = "Form7";
             this.Load += new System.EventHandler(this.Form7_Load);
