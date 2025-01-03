@@ -1,0 +1,6 @@
+Yapılan çalışmalar:
+
+- Chimp Optimization algorithm (ChOA) '[optimizers](https://github.com/surhaysamsa/optimization_algorithms/tree/algoritma/optimizers)'** klasöründe yeni bir klasör olarak eklendi.
+-ChOA'nın çalışması için gerekli dosyalar düzenlendi ve '[example.py](https://github.com/surhaysamsa/optimization_algorithms/blob/algoritma/example.py)' dosyasında MGO çalıştırılabilir hale getirildi.
+- '[README.md](https://github.com/surhaysamsa/optimization_algorithms/blob/algoritma/README.md)' dosyasına ismim eklendi.
+- 
